@@ -1,0 +1,15 @@
+{
+  "name": "mongodb-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Boukhoulda Salaheddine <fs_boukhoulda@esi.dz> (https://salaheddineboukhoulda.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "5.2.17"
+  }
+}
